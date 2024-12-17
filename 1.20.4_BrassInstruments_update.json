@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/copper-instrument",
     "1.20.4": {
-        "1.0.0": "Добавлен мод",
-        "1.0.1": "Некоторые исправление",
-        "1.1.0": "Исправлена текстура у лопаты, добавлен json file для проверки обновление данного мода, и многое другое"
+        "1.0.0": "Mod added",
+        "1.0.1": "Some fixes",
+        "1.1.0": "Fixed texture of shovel, added json file to check update of this mod, and much more"
     },
     "promos": {
         "1.20.4-latest": "1.1.0",
